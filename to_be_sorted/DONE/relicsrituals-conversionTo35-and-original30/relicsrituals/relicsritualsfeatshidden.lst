@@ -1,0 +1,6 @@
+# CVS $Revision: 1.3 $ $Author: kingpaul $ -- Wed Aug  6 19:18:34 2003 -- reformated by prettylst.pl v1.29 (build 294)
+SOURCELONG:Relics and Rituals|SOURCESHORT:RelicRitual|SOURCEWEB:http://www.swordsorcery.com
+
+#Vigilant Class Feats
+# Feat Name			Type			Visible	Required Class		Special Ability						Define						Multiple?	Choose																																										Source Page
+Vigilant Favored Enemy	TYPE:Special	VISIBLE:NO	PRECLASS:1,Vigilant=2	SA:favored enemy (%CHOICE) +%|VigilantFavored	DEFINE:VigilantFavored|(CL=Vigilant+2)/4	MULT:YES	CHOOSE:Favored Enemy|TYPE=Aberration|TYPE=Animal|TYPE=Beast|TYPE=Construct|TYPE=Dragon|TYPE=Elemental|TYPE=Fey|TYPE=Giant|TYPE=Humanoid|TYPE=Magical Beast|TYPE=Monstrous Humanoid|TYPE=Ooze|TYPE=Outsider|TYPE=Plant|TYPE=Shapechanger|TYPE=Undead|TYPE=Vermin	SOURCEPAGE:PCGen Internal

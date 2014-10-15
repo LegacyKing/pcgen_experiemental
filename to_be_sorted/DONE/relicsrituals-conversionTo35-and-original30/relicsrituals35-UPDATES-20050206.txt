@@ -1,0 +1,106 @@
+
+
+The following is a list of updates made to original Relics & Rituals dataset.
+Assumptions:
+1. The dataset should contain only necessary information (the rest is to be imported via INCLUDE from previous version).
+2. All relevant permission documents (for now: a copy of 3.0-compliant version) copied to new directory.
+3. All .PCC includes from SRD changed to analog RSRD includes.
+
+Patryk Adamski
+ruemere@poczta.onet.pl
+
+(tested with 5.7.14 beta)
+
+UPDATE LISTING
+(format: file name, changes)
+
+relicsrituals.pcc
+	- line 3 - changed to "GAMEMODE:35e"
+	- line 19 - updated path to new dataset
+	"LICENSE:FILE=data\d20ogl\swordandsorcerystudios\scarredlands\relicsrituals35\relicsritualspermission.HTM"
+	- line 34 - updated path to RSRD
+	"TEMPLATE:@\d20ogl\srd35\rsrd_templates.lst|(INCLUDE:Lich)"
+	- line 50 - updated path to RSRD
+	"FEAT:@\d20ogl\srd35\rsrd_feats_hidden.lst|(INCLUDE:Rebuke Undead|Turn Undead|Basic Turning)"
+	- other lines: - all files imported from previous version with the following exceptions:
+	SKILL:relicsritualsskills.lst
+	CLASS:relicsritualsclasses.lst
+	SPELL:relicsritualsspells.lst
+
+relicsritualsclasses.lst
+	The following class properties were changed in order to improve 3.5 compliancy:
+		
+		Blood Witch:
+		- line 9 - replaced
+		"CSKILL:Alchemy|Concentration|TYPE.Craft|Heal|Knowledge (Arcana)|TYPE.Profession|Scry|Spellcraft|Wilderness Lore"
+		with
+		"CSKILL:Concentration|TYPE.Craft|Heal|Knowledge (Arcana)|TYPE.Profession|Spellcraft|Survival"
+		
+		Crypt Lord
+		- line 26 - replaced (another skill covers this area now):
+		"PRESKILL:1,Knowledge (Undead)=7"
+		with
+		"PRESKILL:1,Knowledge (Religion)=7"
+		- line 28 - replaced
+		"CSKILL:Alchemy|Concentration|TYPE.Craft|Knowledge (Arcana)|Knowledge (Undead)|TYPE.Profession|Scry|Spellcraft"
+		with
+		"CSKILL:Concentration|TYPE.Craft|Knowledge (Arcana)|Knowledge (Religion)|TYPE.Profession|Spellcraft"
+		
+		Incarnate
+		- line 51 - replaced
+		"CSKILL:Animal Empathy|Concentration|TYPE.Craft|Diplomacy|Handle Animal|Heal|Intuit Direction|Knowledge (Nature)|TYPE.Profession|Scry|Spellcraft|Swim|Wilderness Lore"
+		with
+		"CSKILL:Concentration|TYPE.Craft|Diplomacy|Handle Animal|Heal|Knowledge (Nature)|TYPE.Profession|Spellcraft|Swim|Survival"
+		
+		Penumbral Lord
+		- line 70 - replaced
+		"CSKILL:Alchemy|Concentration|Decipher Script|Hide|Knowledge (Arcana)|Move Silently|TYPE.Profession|Scry|Spellcraft"
+		with
+		CSKILL:Concentration|Decipher Script|Hide|Knowledge (Arcana)|Move Silently|TYPE.Profession|Spellcraft
+		
+		Sea Witch
+		- line 89 - replaced
+		"CSKILL:Appraise|Balance|Bluff|Climb|Concentration|TYPE.Craft|Handle Animal|Intuit Direction|TYPE.Knowledge|TYPE.Profession|Sense Motive|Speak Language|Swim|Use Rope"
+		with
+		"CSKILL:Appraise|Balance|Bluff|Climb|Concentration|TYPE.Craft|Handle Animal|TYPE.Knowledge|TYPE.Profession|Sense Motive|Speak Language|Survival|Swim|Use Rope"
+		
+		Summoner
+		- line 111 - replaced
+		"CSKILL:Alchemy|Bluff|Concentration|TYPE.Craft|Diplomacy|Knowledge (Patron Lore)|TYPE.Profession|Scry|Spellcraft"
+		with
+		"CSKILL:Bluff|Concentration|TYPE.Craft|Diplomacy|Knowledge (Patron Lore)|TYPE.Profession|Spellcraft"
+		
+		Vigilant
+		- line 131 - replaced
+		"PRESKILL:1,Wilderness Lore=7"
+		with
+		"PRESKILL:1,Survival=7"
+		-line 133 - replaced
+		"CSKILL:Appraise|Balance|Bluff|Climb|Decipher Script|Diplomacy|Disguise|Escape Artist|Gather Information|Handle Animal|Hide|Intuit Direction|Jump|Listen|Move Silently|TYPE.Profession|Ride|Search|Sense Motive|Spot|Swim|Use Rope|Wilderness Lore"
+		with
+		"CSKILL:Appraise|Balance|Bluff|Climb|Decipher Script|Diplomacy|Disguise|Escape Artist|Gather Information|Handle Animal|Hide|Jump|Listen|Move Silently|TYPE.Profession|Ride|Search|Sense Motive|Spot|Survival|Swim|Use Rope"
+		- line 136 - corrected error, was
+		"AUTO:WEAPONPROF:TYPE=Simp|TYPE=Martial"
+		is
+		"AUTO:WEAPONPROF:TYPE=Simple|TYPE=Martial"
+		
+relicsritualsskills.lst
+		- line 9 - added Profession (Sailor) skill (no longer present in RSRD)
+
+relicsritualsspells.lst
+	The following changes were made in order to comply with 3.5 versions of spells and spell names:
+	
+	#Charm Person or Animal.MOD		NAMEISPI:YES	CLASSES:Sea Witch=1
+	Charm Person.MOD		NAMEISPI:YES	CLASSES:Sea Witch=1
+	
+	#Endurance.MOD				NAMEISPI:YES	CLASSES:Vigilant=3
+	Bear's Endurance.MOD				NAMEISPI:YES	CLASSES:Vigilant=3
+	
+	#Improved Invisibility.MOD		NAMEISPI:YES	CLASSES:Sea Witch=4
+	Invisibility (Greater).MOD		NAMEISPI:YES	CLASSES:Sea Witch=4
+	
+	#Protection from Elements.MOD		NAMEISPI:YES	CLASSES:Vigilant=2
+	Protection from Energy.MOD		NAMEISPI:YES	CLASSES:Vigilant=2
+	
+	#Resist Elements.MOD			NAMEISPI:YES	CLASSES:Vigilant=1
+	Resist Energy.MOD			NAMEISPI:YES	CLASSES:Vigilant=1

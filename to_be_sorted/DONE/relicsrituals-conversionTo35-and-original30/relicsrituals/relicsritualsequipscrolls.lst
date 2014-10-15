@@ -1,0 +1,258 @@
+# CVS $Revision: 1.2 $ $Author: tir-gwaith $ -- Wed Aug  6 19:18:34 2003 -- reformated by prettylst.pl v1.29 (build 294)
+SOURCELONG:Relics and Rituals|SOURCESHORT:RelicRitual|SOURCEWEB:http://www.swordsorcery.com
+
+# Equipment Name					Product Identity?	Output Name				Type				Cost		Weight	Source Page
+Scroll (Acid Spittle)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Arrow Charm)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Buoyancy Net)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Chameleon Skin)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Clean)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Detect Gold)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Disappear)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Flame Bolt)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Flash)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Glue)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Obscure Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Quick Sober)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rabbit Feet)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Reshape Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Salamar's Quiet Contemplation)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shade's Sight)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Steal Sleep)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Trigger Rune)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Adhere to Wood)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Buoyancy Net)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Chameleon Skin)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Clean)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Detect Gold)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Distort Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dowsing)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ephod of Melee)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Gaze of Truth)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Grim Feast)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Holy Beacon)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Madriel's Empathic Resonance)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Minor Symbol of Divinity)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Obscure Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Prevarication's Bounty)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Quick Sober)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rabbit Feet)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Reshape Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Salamar's Quiet Contemplation)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shockwave Strike)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Smite)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Steal Sleep)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Tanil's Touch)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Alibi)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Assassin's Senses)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Battlecry)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Blazing Shield)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Cold Snap)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Commanding Presence)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dark Flames)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dead Man's Eyes)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dolomar's Force Wave)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dolomar's Mapping)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Enkili's Prank)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ethereal Bolt)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ever Scent)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Flame/Frost Weapon)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ganest's Farstrike)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Gloom)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Intoxicate)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Life Shield/Humunculus Shield)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Liliandel's Flurry)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Minor Shadow Conjuration)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Perfect Recollection)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Phantom's Howl)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Prevarication's Bounty)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rend the Sovereign Soul)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Renewed Focus)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Reverse Illusion)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rune of Darkness)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Images)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sleep of the Dead)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Smother)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Song of Heroes)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Swift Water)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Animal Infusion)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Assassin's Senses)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Battlecry)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Call Aquatic Animal I)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Circle of Sounds)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Cold Snap)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Commanding Presence)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dead Man's Eyes)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Divine Wisdom)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Enkili's Luck)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Enkili's Prank)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Flame/Frost Weapon)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Frog Tongue)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Gloom)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Hedrada's Balance)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Hunter's Stalk)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Liliandel's Flurry)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Limbs of Endurance)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Locate Corpse)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Phantom's Howl)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rend the Sovereign Soul)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sethris' Potency)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sethtel's Stick Servant)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sleep of the Dead)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Swift Water)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Vangal's Touch)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Wolf's Cry)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Animal Infusion)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Animate Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Armor of Undeath)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Bloodstorm)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Call Aquatic Humanoid I)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Curse of Terror)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dar'Tan's Shadow Bolt)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dirge of Woe)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dragon's Breath)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Gas Cloud)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Great Knock)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Iron Storm)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Manaspear)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Mind Raid)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Minor Shadow Evocation)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Pressure Sphere)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rune of Fire)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rune of Seeing)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rune of Sleep)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Strike)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Touch)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Terole's Translator)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Touch of the Eel)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Unbuckle)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Animal Spy)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Banish Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Beast Soul)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Call Aquatic Humanoid I)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Chardun's Torments)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Curse of Terror)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Denev's Exile from Nature)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Divine Raiment)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ganest's Farstrike)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Heart of Valor)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Invigorate Dead)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Life Force Transfer)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Listening Ringworm)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Mind Raid)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Pressure Sphere)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sacred Weapon)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Strike)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Touch)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sunspear)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Thorn Throw)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Unbuckle)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Vangal's Wounding)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Yaral's Totemic Transformation)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Belsameth's Strife)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Bottomless Pit)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ghostdweomer)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Gluttony)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Mind Over Matter)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Mirror Safe)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Purifying Flames)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Remove Resistance)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rune of Poison)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sacrifice Spell)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Seal of Hedrada)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Form of Lyrand)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Shield)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Song of the Gods)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Tattoo Item)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Tevikk's Creeping Eye)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Water's Embrace)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Yaral's Totemic Transformation)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Zombie Form)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Belsameth's Strife)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Call Aquatic Animal II)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Cloak of Righteousness)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Control Light)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ghostdweomer)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Gluttony)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Hand of Justice)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Holy Beacon's Answer)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Holy Channel)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ironheart)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Live Wood)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Mind Over Matter)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Purifying Flames)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sacred Journey)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Seal of Hedrada)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Soul of Mercy)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Terole's Translator)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Touch of the Eel)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Unholy Channel)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Verminplague)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Call Aquatic Monster)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Curtain of Darkness)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dark Water)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dolomar's Limited Liquification)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Doomwail)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Greater Familiar)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Inquisition)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Live Wood)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Meld Object)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Multiplicity)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Nethergaze)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Pillar of Attraction/Repulsion)	NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rie's Dance of Seduction)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Weapon)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ship Snare)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Belsameth's Blessing)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Brothers in Arms)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Doomwail)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Gutroot)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Imbue Shadow)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Inquisition)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ship Snare)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Water's Embrace)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Awaken Lesser Titan Avatar)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Call Aquatic Humanoid II)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Dark Water)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Death Blade)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Decleration of Death)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Enkili's Lightning Storm)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Mormo's Serpent Hands)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Pass the Years)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Power Word/Thunder)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Reverse Illusion)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sacrificial Heart)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Smash)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Song of Champions)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Taldock's Spell Inhibitor)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Daggers of Vaul)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Freezing Curse)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Ilajam Fire)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Mormo's Serpent Hands)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sever)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shade Evocation)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Soulstrike)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Transmute Flesh to Shadow)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Daggers of Vaul)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Freezing Curse)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Greater Healing Circle)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Incite)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Sever)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Blackflame)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Darkstaff)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Greater Circle of Seeing)		NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Leech Field)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Rapid Journey)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Storm)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shadow Twin)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Strength of Kadum)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Time Skip)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Widdershins)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Arcane	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Avatar)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Grove of Serenity)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Leech Field)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Recall Champion)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Strength of Kadum)			NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Convert)					NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Incapacitate)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.
+Scroll (Shatter Soul)				NAMEISPI:YES	OUTPUTNAME:Scroll of [NAME]	TYPE:Scroll.Divine	COST:0	WT:0		SOURCEPAGE:p.

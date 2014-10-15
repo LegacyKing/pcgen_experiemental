@@ -1,0 +1,18 @@
+
+
+Error corrected
+
+Patryk Adamski
+ruemere@poczta.onet.pl
+
+(tested with 5.7.14 beta)
+
+UPDATE LISTING
+(format: file name, changes)
+
+relicsritualsclasses.lst
+		Vigilant
+		- line 136 - corrected error, was
+		"AUTO:WEAPONPROF:TYPE=Simp|TYPE=Martial"
+		is
+		"AUTO:WEAPONPROF:TYPE=Simple|TYPE=Martial"
